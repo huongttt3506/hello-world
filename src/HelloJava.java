@@ -5,13 +5,10 @@ public class HelloJava {
         System.out.println("Hello Huong!!!");
         System.out.println("Wellcome to Java!");
         System.out.println("13+7");System.out.println(13 + 7);
+        System.out.println(3*2);
         Scanner scanner = new Scanner(System.in);
         System.out.println(scanner.nextLine());
 
 
-
     }
-}
-public class Huongjava {
-
 }
